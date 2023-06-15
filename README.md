@@ -8,5 +8,5 @@ An extended goal, if time permits, would be to optimize our algorithm based on t
 
 # More Information
 
-- [*Final Report:*](https://github.com/MedhaRudra/Electronic-Pharmacy-Assistant/blob/main/FINAL%20REPORT.pdf)
-- [*Demo Video*](https://youtu.be/H7XsY34ja_I)
+- [**Final Report**](https://github.com/MedhaRudra/Electronic-Pharmacy-Assistant/blob/main/FINAL%20REPORT.pdf)
+- [**Demo Video**](https://youtu.be/H7XsY34ja_I)
